@@ -1,0 +1,17 @@
+venv311/
+node_modules/
+frontend/node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.venv/
+.idea/
+.vscode/
+dist/
+build/
+*.log
+.DS_Store
